@@ -10,7 +10,7 @@
 - Responsive design for all devices
 - Landing page with game instructions
 - <img width="1862" height="990" alt="image" src="https://github.com/user-attachments/assets/a78b61e9-dbe5-4ff6-858e-b5e55db713a6" />
-
+- <img width="1851" height="1005" alt="image" src="https://github.com/user-attachments/assets/e71b4785-60ab-47b7-9397-a890247da4a3" />
 
 ### Tech Stack
 - HTML5, CSS3, JavaScript
